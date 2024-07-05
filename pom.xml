@@ -40,6 +40,7 @@
         <module>action-samples</module>
         <module>auth-valve</module>
         <module>background-job-samples</module>
+        <module>blueprint-samples</module>
         <module>cache-key-part-generator-samples</module>
         <module>choicelist-samples</module>
         <module>config-samples</module>
