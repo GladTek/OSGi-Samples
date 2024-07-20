@@ -1,4 +1,4 @@
-package org.sample.modules.sampleservletfilter;
+package com.gladtek.samples.modules.sampleservletfilter;
 
 import org.jahia.bin.filters.AbstractServletFilter;
 import org.osgi.service.component.annotations.Activate;
